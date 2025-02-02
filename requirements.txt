@@ -3,3 +3,5 @@ transformers
 xgboost 
 pandas
 requests
+torch
+tensorflow
